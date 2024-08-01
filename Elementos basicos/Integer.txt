@@ -1,0 +1,2 @@
+Tipos de datos: Integer
+Los integers o Enteros son tipos de datos que almacenan numeros sin decimales,no hay problema con los positivos o negativos en python se pueden representar como INT

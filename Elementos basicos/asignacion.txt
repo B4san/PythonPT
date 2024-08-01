@@ -1,0 +1,5 @@
+Los operadores de asignacion son para asginar algo a una variable
+El simbolo de = es un operador de asignacion y no de comparacion. Esto es algo que tenemos que tener muy en cuenta ya que puede ocasionar algunas confusiones.
+Los siguientes operadores de asignacion con una combinacion entre el simbolo = y operadores aritmeticos
+
++=        -=        *=          /=            **=           //=              %=

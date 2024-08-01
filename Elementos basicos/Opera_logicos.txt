@@ -1,0 +1,8 @@
+AND = Verifica que todos los resultados se cumplan
+
+OR = Verifica que minimo uno de los resultados se cumplan
+
+NOT = Cambia el resultado por la contra parte
+
+
+Nota: Primero se ejecutan los AND y luego los OR

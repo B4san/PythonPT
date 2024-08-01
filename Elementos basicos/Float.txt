@@ -1,0 +1,4 @@
+Los floats o reales son tipos de datos que almacenan numeros con decimales (no hay problema con los positivos y negativos).En
+Python se pueden representar como float
+
+-Para redondear un valor puedes castear la variable como un entero o si solo quieres una cantidad en decimales utilizar la funcion round(valor,decimales)

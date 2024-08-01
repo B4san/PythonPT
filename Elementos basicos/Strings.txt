@@ -1,0 +1,13 @@
+Tipos de Datos - String
+
+Los Strings o Cadenas de Textos son secuencias de caracteres que se encuentran encerradas entre comillas.
+
+Algunas funciones de las cadenas
+
+variable[0] -> se utiliza para acceder a un carácter específico
+
+len(variable)-> retorna el tamaño del string
+
+variable.isupper() | variable.islower() -> verifica si el texto esta en mayúsculas o minúsculas.
+
+variable.upper() | variable.lower() -> pone el texto esta en mayúsculas o minúsculas.
