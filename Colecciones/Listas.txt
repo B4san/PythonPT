@@ -1,0 +1,22 @@
+Las listas son secuencias de datos que estan definidas entre [] y van separadas por comas
+
+metodos:
+len(lista) = Tamaño de la lista
+
+lista[0] = Obtener el valor de una posicion definidas
+
+lista.append(valor) = Agregar valores a la lista
+
+lista.count(valor) = Retorna la cantidad de veces que el valor se encuentra
+
+lista.insert(Posicion,Valor) = permite insertar un elemento en una poosicion
+
+lista.pop() = Devuelve el ultimo valor de la lista
+
+lista.remove(valor) = Elimina la primera  aparicion de un valor
+
+lista.index(dato) = Devuelve la posicion
+
+lista.reverse() = Invierte el orden de la lista
+
+lista.sort() = Ordena los elementos de una lista
