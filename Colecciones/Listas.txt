@@ -20,3 +20,6 @@ lista.index(dato) = Devuelve la posicion
 lista.reverse() = Invierte el orden de la lista
 
 lista.sort() = Ordena los elementos de una lista
+
+
+Nota: Todo lo que esta dentro de la lista es un ITEM    

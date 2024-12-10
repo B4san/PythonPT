@@ -1,0 +1,13 @@
+Diccionarios
+* Los diccionarios son secuencias de datos que estan definidas entre {} y muestran
+una relacion de clave-valor.
+
+* Métodos:
+- diccionario(«clave») -> acceder al valor
+- diccionario(«clave) = valor -> Asignar valor o ingresar nueva relacion
+- diccionario.clear() -> limpia el diccionario
+- diccionario.items() -> retorna (clave,valor)
+- diccionariokeys() -> retorna claves
+- diccionario.values() -> retorna valores
+
+# Dato: puedes utilizar «in» para buscar una clave.

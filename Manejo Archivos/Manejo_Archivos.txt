@@ -1,0 +1,16 @@
+Manejo de Archivos
+- Gracias al manejo de archivos logramos tener persistencia de datos al momento.
+de ejecutar algun proceso.
+
+« Alinteractuar con ficheros podremos:
+
+-Crear
+-Borrar
+-Editar
+
+«  Para abrir un archivo tendremos que utilizar el comando open(archivo,modo)
+« Los 3 tipos mas usados para abrir un archivo son:
+
+-Write(w)
+-Read(r)
+-Append(a)

@@ -1,0 +1,6 @@
+ Tuplas
+-Es un tipo de dato lista inmutable. Esta no puede ser modificada de ningun 
+modo. Las tuplas se identifican con los paréntesis ().
+
+- Count(dato) - Cuenta la cantidad de veces que se repite un dato.
+- Index(dato) - Recibe un elemento como argumento y devuelve su indice
